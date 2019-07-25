@@ -1,2 +1,2 @@
 # AndyOS
-Simple barebones operating system in FPC.
+Esqueleto de um sistema operacional desenvolvido com FPC visando o estudo da área. 
