@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Release"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="andy.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="20"/>
+        <CursorPos X="28" Y="36"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="core/console.pp"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="165"/>
+        <CursorPos X="6" Y="176"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="Makefile"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="26" Y="7"/>
+        <UsageCount Value="21"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="33" Y="15"/>
+        <UsageCount Value="20"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="andy.lpr"/>
+        <Caret Line="35" Column="36"/>
+      </Position1>
+      <Position2>
+        <Filename Value="andy.lpr"/>
+        <Caret Line="30" Column="59" TopLine="13"/>
+      </Position2>
+      <Position3>
+        <Filename Value="andy.lpr"/>
+        <Caret Line="36" Column="32" TopLine="21"/>
+      </Position3>
+      <Position4>
+        <Filename Value="andy.lpr"/>
+        <Caret Line="40" Column="7" TopLine="23"/>
+      </Position4>
+      <Position5>
+        <Filename Value="core/console.pp"/>
+        <Caret Line="46" Column="54" TopLine="35"/>
+      </Position5>
+      <Position6>
+        <Filename Value="andy.lpr"/>
+        <Caret Line="36" Column="25" TopLine="20"/>
+      </Position6>
+      <Position7>
+        <Filename Value="andy.lpr"/>
+        <Caret Line="36" Column="15" TopLine="20"/>
+      </Position7>
+      <Position8>
+        <Filename Value="core/console.pp"/>
+        <Caret Line="160" Column="20" TopLine="156"/>
+      </Position8>
+      <Position9>
+        <Filename Value="core/console.pp"/>
+        <Caret Line="178" Column="14" TopLine="171"/>
+      </Position9>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
